@@ -1,0 +1,11 @@
+Package: GeneticPower
+Title: Power and Sample Size Calculations for Genetic Association Tests
+Version: 0.0.0.9000
+Authors@R: 
+    person("Katherine `Alex`", "Knutson", , "Katherine.Knutson@pfizer.com", role = c("aut", "cre"))
+Description: This package provides functions to calculate the power and sample size associated with a genetic study for both case-control and continuous traits.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
